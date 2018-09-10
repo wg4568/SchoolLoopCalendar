@@ -103,4 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-settings.cfg
+secrets.py
